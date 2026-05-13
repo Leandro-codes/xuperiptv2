@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0F0F13</color>
+    <color name="bg_sidebar">#1A1A22</color>
+    <color name="bg_header">#16161E</color>
+    <color name="bg_search">#1E1E28</color>
+    <color name="bg_group_header">#1C1C26</color>
+    <color name="bg_item">#14141C</color>
+    <color name="bg_item_focused">#252535</color>
+    <color name="bg_item_pressed">#2A2A3E</color>
+
+    <!-- Accent / Brand -->
+    <color name="accent">#E8460A</color>
+    <color name="accent_dark">#B33506</color>
+    <color name="accent_light">#FF6B35</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F0F8</color>
+    <color name="text_secondary">#8A8A9E</color>
+    <color name="text_hint">#55556A</color>
+
+    <!-- Icons -->
+    <color name="icon_active">#E8460A</color>
+    <color name="icon_inactive">#555566</color>
+
+    <!-- Star -->
+    <color name="star_active">#FFB800</color>
+    <color name="star_inactive">#555566</color>
+
+    <!-- Nav selected bg -->
+    <color name="nav_selected_bg">#2A1A16</color>
+</resources>

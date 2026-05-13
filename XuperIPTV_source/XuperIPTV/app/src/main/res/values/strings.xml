@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XuperIPTV</string>
+    <string name="channels">Canales</string>
+    <string name="favorites">Favoritos</string>
+    <string name="search">Buscar</string>
+    <string name="settings">Ajustes</string>
+    <string name="add_playlist">Agregar lista</string>
+    <string name="no_channels">Sin canales. Agregá una lista M3U.</string>
+    <string name="loading">Cargando…</string>
+    <string name="live">● EN VIVO</string>
+</resources>

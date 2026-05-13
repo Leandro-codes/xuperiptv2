@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- channel_item_bg.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="@color/bg_item_focused" />
+            <stroke android:width="2dp" android:color="@color/accent" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/bg_item_pressed" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/bg_item" />
+            <corners android:radius="0dp" />
+        </shape>
+    </item>
+</selector>

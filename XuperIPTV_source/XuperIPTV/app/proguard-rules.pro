@@ -1,0 +1,3 @@
+-keep class com.xuperiptv.data.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
